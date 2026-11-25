@@ -32,10 +32,3 @@ CREATE TABLE IF NOT EXISTS alunos (
    ```bash
    python cadastro_alunos.py
    ```
-
-## Capturas de Tela
-![Tela Principal](tela-1.png)
-![Cadastro e Busca](tela-2.png)
-
-## Relato de Uso do GitHub Copilot
-O GitHub Copilot foi utilizado no VS Code para auxiliar na estruturação das consultas SQL parametrizadas com `sqlite3`, na montagem da interface em `tkinter` com `ttk.Treeview` e na expressão regular de validação de e-mail. Todo o código foi revisado, testado e ajustado manualmente conforme os requisitos da disciplina.
